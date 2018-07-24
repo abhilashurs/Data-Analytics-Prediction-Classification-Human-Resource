@@ -1,0 +1,2 @@
+# Prediction-Classification-Human-Resource
+Three classification and prediction models were built to find out leading drivers of employee attrition and monthly income respectively. R programming language is utilized to build models such as Multiple Linear Regression, Logistic Regression, k-NN and CART. Best model evaluation is based on RMSE and mis classification error rate for prediction and classification models respectively.
